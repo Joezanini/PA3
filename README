@@ -1,0 +1,7 @@
+README .....List of submitted files and descriptions
+List.java .....List Object and associated methods
+Matrix.java .....Matrix Object and associated methods
+Sparse.java .....Uses Matrix Object to manipulate data
+ListTest.java .....Tests functionality of List Object
+MatrixTest.java .....Tests functionality of Matrix Object
+MakeFile .....Executes program
